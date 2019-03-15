@@ -6,12 +6,12 @@ public class Point {
 
    private int x;
    private int y;
-   private PointColor pointColor;
+   private Color color;
 
-   public Point(int x, int y, PointColor pointColor) {
+   public Point(int x, int y, Color color) {
       this.x = x;
       this.y = y;
-      this.pointColor = pointColor;
+      this.color = color;
    }
 
    public int getX() {
@@ -22,8 +22,8 @@ public class Point {
       return y;
    }
 
-   public PointColor getPointColor() {
-      return pointColor;
+   public Color getColor() {
+      return color;
    }
 
    @Override

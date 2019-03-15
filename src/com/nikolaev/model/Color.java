@@ -1,5 +1,5 @@
 package com.nikolaev.model;
 
-public enum PointColor {
+public enum Color {
    NONE, BLACK, WHITE;
 }

@@ -5,29 +5,20 @@ import java.util.Set;
 
 public class Situation {
 
-   private Set<Group> whitePoints = new HashSet<>();
-   private Set<Group> blackPoints = new HashSet<>();
+   private Set<Group> pointGroups = new HashSet<>();
 
    public Set<Group> getPointGroups() {
-      Set<Group> pointGroups = new HashSet<>(whitePoints);
-      pointGroups.addAll(this.blackPoints);
       return pointGroups;
    }
 
-   public Set<Group> getWhitePoints() {
-      return whitePoints;
-   }
-
-   public void setWhitePoints(Set<Group> whitePoints) {
-      this.whitePoints = whitePoints;
-   }
-
-   public Set<Group> getBlackPoints() {
-      return blackPoints;
-   }
-
-   public void setBlackPoints(Set<Group> blackPoints) {
-      this.blackPoints = blackPoints;
+   public Set<Group> getPointPointsGroupByColor(Color color) {
+      Set<Group> pointGroupsByColor = new HashSet<>();
+      pointGroupsByColor.forEach(group -> {
+         if (color.equals(group.getRenjuPointSet().get(0).getColor())) {
+            pointGroupsByColor.add(group);
+         }
+      });
+      return pointGroupsByColor;
    }
 
    //TODO: find group for point and add

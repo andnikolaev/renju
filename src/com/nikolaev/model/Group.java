@@ -1,17 +1,34 @@
 package com.nikolaev.model;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Group {
 
-   private Set<Point> renjuPointSet = new HashSet<>();
+   private List<Point> renjuPointList = new ArrayList<>();
+   private Color color;
 
-   public Set<Point> getRenjuPointSet() {
-      return renjuPointSet;
+   public List<Point> getRenjuPointSet() {
+      return renjuPointList;
    }
 
-   public void setRenjuPointSet(Set<Point> renjuPointSet) {
-      this.renjuPointSet = renjuPointSet;
+   public void setRenjuPointSet(List<Point> renjuPointSet) {
+      this.renjuPointList = renjuPointSet;
+   }
+
+   public List<Point> getRenjuPointList() {
+      return renjuPointList;
+   }
+
+   public void setRenjuPointList(List<Point> renjuPointList) {
+      this.renjuPointList = renjuPointList;
+   }
+
+   public Color getColor() {
+      return color;
+   }
+
+   public void setColor(Color color) {
+      this.color = color;
    }
 }
