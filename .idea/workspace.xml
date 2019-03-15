@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d1efb1-a2ef-4a6c-80f6-2df86ff37cc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/PointColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="535">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2231#2232#0" expanded="true" />
@@ -42,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/Situation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="400">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
@@ -141,11 +136,11 @@
         <option value="$PROJECT_DIR$/src/com/nikolaev/Main.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/Application.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/model/Point.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/Game.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/model/PointColor.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/model/Color.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/model/Group.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" />
       </list>
     </option>
   </component>
@@ -349,27 +344,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/Situation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="535">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2231#2232#0" expanded="true" />
             <element signature="e#2292#2293#0" expanded="true" />
             <element signature="e#2367#2368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/Situation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
           </folding>
         </state>
       </provider>

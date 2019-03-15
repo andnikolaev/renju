@@ -14,7 +14,7 @@ public class Situation {
    public Set<Group> getPointPointsGroupByColor(Color color) {
       Set<Group> pointGroupsByColor = new HashSet<>();
       pointGroupsByColor.forEach(group -> {
-         if (color.equals(group.getRenjuPointSet().get(0).getColor())) {
+         if (color.equals(group.getColor())) {
             pointGroupsByColor.add(group);
          }
       });
