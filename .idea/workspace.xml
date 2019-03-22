@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d1efb1-a2ef-4a6c-80f6-2df86ff37cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleSituation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-269">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="380">
+              <caret line="19" column="77" lean-forward="true" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="511">
+              <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,8 +203,8 @@
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleSituation.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/Main.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/Start.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" />
       </list>
     </option>
   </component>
@@ -337,7 +330,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21108742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21108742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,7 +338,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        <state relative-caret-position="511">
+          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -508,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="380">
+          <caret line="19" column="77" lean-forward="true" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

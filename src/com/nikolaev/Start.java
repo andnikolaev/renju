@@ -23,18 +23,18 @@ public class Start {
 
       for (int i = 0; i < 5; i++) {
 
-         System.out.println(simpleGame.checkGameFinished(node.getSituation()));
+         System.out.println(simpleGame.checkGoal(node.getSituation()));
          System.out.println("BLACK STEP");
          node = simpleGame.generateNewSituation(node, 2);
          start.printSituation(node);
-         int res = simpleGame.checkGameFinished(node.getSituation());
+         int res = simpleGame.checkGoal(node.getSituation());
          if (printWinner(res)) {
             break;
          }
          System.out.println("WHITE STEP");
          node = simpleGame.generateNewSituation(node, 1);
          start.printSituation(node);
-         res = simpleGame.checkGameFinished(node.getSituation());
+         res = simpleGame.checkGoal(node.getSituation());
          if (printWinner(res)) {
             break;
          }

@@ -47,7 +47,7 @@ public class SimpleGame {
       return copy;
    }
 
-   public int checkGameFinished(SimpleSituation situation) {
+   public int checkGoal(SimpleSituation situation) {
       int[][] points = situation.getPoints();
       int count = 1;
       for (int i = 0; i < points.length; i++) {
