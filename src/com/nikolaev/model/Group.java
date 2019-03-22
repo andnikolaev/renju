@@ -8,6 +8,14 @@ public class Group {
    private List<Point> renjuPointList = new ArrayList<>();
    private Color color;
 
+   public void addPoint(Point point) {
+      renjuPointList.add(point);
+   }
+
+   public void addListPoints(List<Point> points) {
+      renjuPointList.addAll(points);
+   }
+
    public List<Point> getRenjuPointSet() {
       return renjuPointList;
    }
@@ -30,5 +38,19 @@ public class Group {
 
    public void setColor(Color color) {
       this.color = color;
+   }
+
+   @Override
+   public String toString() {
+      return "Group{" + "renjuPointList=" + renjuPointList + '}';
+   }
+
+   public Point getPointByXY(Point point) {
+      for (Point point1 : renjuPointList) {
+         if (point1.equals(point)) {
+            return point1;
+         }
+      }
+      return null;
    }
 }
