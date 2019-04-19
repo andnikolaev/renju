@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d1efb1-a2ef-4a6c-80f6-2df86ff37cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/core/Finder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/core/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/core/Situation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/core/SituationPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eb595cc477e6a80769782f3e3b76d0a3b59ce72" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eb595cc477e6a80769782f3e3b76d0a3b59ce72" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7825926bf3e4db5087b449d11e81afd1702f7f54" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7825926bf3e4db5087b449d11e81afd1702f7f54" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/979a8134558fa496e8d5d65d012e118a0afbd0c5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/979a8134558fa496e8d5d65d012e118a0afbd0c5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63f19ada3ebfae193586e9bc8cdc4dd9d179947" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63f19ada3ebfae193586e9bc8cdc4dd9d179947" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Start.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/model/Situation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Game.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/SimpleGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/SimpleSituation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/RenjuGameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/model/Situation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/model/RenjuSituation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleSituation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuSituation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuSituation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Situation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/SituationPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/core/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/core/Finder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Finder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="377">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -352,7 +335,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3955224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,12 +343,12 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3672806" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.31960997" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.63488626" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
@@ -569,8 +552,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Finder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="377">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -19,7 +19,7 @@ public class Finder {
               {1, 1, 1, 2, 0}};
    }
 
-   public Finder(Situation situation, Game game, SituationPrinter printer){
+   public Finder(Situation situation, Game game, SituationPrinter printer) {
       this.situation = situation;
       this.game = game;
       this.renjuPrinter = printer;
