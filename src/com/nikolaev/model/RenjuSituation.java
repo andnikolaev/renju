@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Situation {
+public class RenjuSituation {
 
    private Set<Group> pointGroups = new HashSet<>();
 
@@ -81,6 +81,6 @@ public class Situation {
 
    @Override
    public String toString() {
-      return "Situation{" + "pointGroups=" + pointGroups + '}';
+      return "RenjuSituation{" + "pointGroups=" + pointGroups + '}';
    }
 }

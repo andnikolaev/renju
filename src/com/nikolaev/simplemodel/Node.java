@@ -1,23 +1,23 @@
 package com.nikolaev.simplemodel;
 
-import com.nikolaev.model.Situation;
+import com.nikolaev.core.Situation;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Node {
+public class Node{
 
-   private SimpleSituation situation;
+   private Situation situation;
    private Node parentNode;
    private List<Node> childNodes = new ArrayList<>();
    private int count = 0;
 
-   public Node(SimpleSituation situation, Node parentNode) {
+   public Node(Situation situation, Node parentNode) {
       this.situation = situation;
       this.parentNode = parentNode;
    }
 
-   public SimpleSituation getSituation() {
+   public Situation getSituation() {
       return situation;
    }
 

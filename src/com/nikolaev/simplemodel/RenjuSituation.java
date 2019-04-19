@@ -1,19 +1,16 @@
 package com.nikolaev.simplemodel;
 
-import com.nikolaev.model.*;
+import com.nikolaev.core.Situation;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class SimpleSituation {
+public class RenjuSituation implements Situation {
 
    int[][] points;
 
-   public SimpleSituation(int[][] points) {
+   public RenjuSituation(int[][] points) {
       this.points = points;
    }
 
-   public SimpleSituation(int size) {
+   public RenjuSituation(int size) {
       this.points = new int[size][size];
    }
 

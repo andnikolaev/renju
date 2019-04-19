@@ -11,3 +11,11 @@ U
 %src/com/nikolaev/model/Situation.java,7\8\7825926bf3e4db5087b449d11e81afd1702f7f54
 J
 src/com/nikolaev/Game.java,a\6\a63f19ada3ebfae193586e9bc8cdc4dd9d179947
+a
+1src/com/nikolaev/simplemodel/SimpleSituation.java,2\4\24bc79779407a8bb9a0a2a8412fb95f60abf3923
+V
+&src/com/nikolaev/simplemodel/Node.java,7\b\7b6c7819fb3d9ee0132f771cb9c9a459183ee2e1
+\
+,src/com/nikolaev/simplemodel/SimpleGame.java,3\8\38e62df5a093246718a0ded92b61267e094c8aeb
+K
+src/com/nikolaev/Start.java,b\5\b5743ea89683ad7fb7ce04d2bf383a17997e83eb

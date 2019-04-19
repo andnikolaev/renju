@@ -2,10 +2,7 @@ package com.nikolaev;
 
 import com.nikolaev.model.Color;
 import com.nikolaev.model.Point;
-import com.nikolaev.model.Situation;
-
-import java.util.ArrayList;
-import java.util.List;
+import com.nikolaev.model.RenjuSituation;
 
 public class Main {
 
@@ -21,27 +18,27 @@ public class Main {
 
    public static void main(String[] args) {
       Main main = new Main();
-      Situation situation = new Situation();
+      RenjuSituation renjuSituation = new RenjuSituation();
       int[][] initSituations = main.initSituatuin();
       for (int i = 0; i < initSituations.length; i++) {
          for (int j = 0; j < initSituations[i].length; j++) {
             int point = initSituations[i][j];
             if (point == 1) {
-               situation.addPoint(new Point(i, j, Color.WHITE));
+               renjuSituation.addPoint(new Point(i, j, Color.WHITE));
             }
             if (point == 2) {
-               situation.addPoint(new Point(i, j, Color.BLACK));
+               renjuSituation.addPoint(new Point(i, j, Color.BLACK));
             }
          }
       }
-      System.out.println(situation.getPointGroups().size());
-      main.printSituation(initSituations.length, initSituations[0].length, situation);
+      System.out.println(renjuSituation.getPointGroups().size());
+      main.printSituation(initSituations.length, initSituations[0].length, renjuSituation);
    }
 
-   private void printSituation(int width, int height, Situation situation) {
+   private void printSituation(int width, int height, RenjuSituation renjuSituation) {
       for (int i = 0; i < width; i++) {
          for (int j = 0; j < height; j++) {
-            Point point = situation.getPoint(i, j);
+            Point point = renjuSituation.getPoint(i, j);
             System.out.printf("%8s",point.toString());
          }
          System.out.println();
