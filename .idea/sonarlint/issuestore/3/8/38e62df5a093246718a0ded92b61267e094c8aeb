@@ -1,8 +1,0 @@
-
-Isquid:S1068
-"-Remove this unused "xPointMax" private field.(·´ÎÝùÿÿÿÿ
-~squid:S4165"gRemove this useless assignment; "yPointMax" already holds the assigned value along all execution paths.(ÌýÚ¸
-nsquid:S37762"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ƒÀ´›üÿÿÿÿ
-]squid:UselessImportCheck"9Remove this unused import 'com.nikolaev.model.Situation'.(Õ¹š¦
-^squid:UselessImportCheck"5Remove this unused import 'com.nikolaev.model.Group'.(ê®Ðþüÿÿÿÿ
-Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ

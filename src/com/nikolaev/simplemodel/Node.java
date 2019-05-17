@@ -10,6 +10,7 @@ public class Node{
    private Situation situation;
    private Node parentNode;
    private List<Node> childNodes = new ArrayList<>();
+   private int Evaluatuion = 0;
    private int count = 0;
 
    public Node(Situation situation, Node parentNode) {
@@ -35,6 +36,14 @@ public class Node{
 
    public Node getParentNode() {
       return parentNode;
+   }
+
+   public int getEvaluatuion() {
+      return Evaluatuion;
+   }
+
+   public void setEvaluatuion(int evaluatuion) {
+      Evaluatuion = evaluatuion;
    }
 }
 

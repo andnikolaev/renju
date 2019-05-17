@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9d1efb1-a2ef-4a6c-80f6-2df86ff37cc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24bc79779407a8bb9a0a2a8412fb95f60abf3923" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eb595cc477e6a80769782f3e3b76d0a3b59ce72" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eb595cc477e6a80769782f3e3b76d0a3b59ce72" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38e62df5a093246718a0ded92b61267e094c8aeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7825926bf3e4db5087b449d11e81afd1702f7f54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b6c7819fb3d9ee0132f771cb9c9a459183ee2e1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b6c7819fb3d9ee0132f771cb9c9a459183ee2e1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a63f19ada3ebfae193586e9bc8cdc4dd9d179947" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5743ea89683ad7fb7ce04d2bf383a17997e83eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5743ea89683ad7fb7ce04d2bf383a17997e83eb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/Start.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/core/Finder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/core/Finder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/core/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/core/Game.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuPrinter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuSituation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/RenjuSituation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/Situation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Renju/com/nikolaev/simplemodel/SituationPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/nikolaev/core/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/core/Finder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/core/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/core/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="360">
+              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,13 +45,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Finder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="213">
+              <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,26 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="100">
               <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/SituationPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Situation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -76,27 +71,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="220">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,12 +85,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="340">
+              <caret line="129" column="35" selection-start-line="129" selection-start-column="35" selection-end-line="129" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,8 +97,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/RenjuSituation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="-160">
               <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,19 +121,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="193">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
                 <element signature="e#582#583#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nikolaev/RenjuGameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -159,6 +169,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>generateSituationWithParticipalPath</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -182,19 +197,19 @@
         <option value="$PROJECT_DIR$/src/com/nikolaev/RenjuGame.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleSituation.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/Game.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SimpleGame.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/RenjuGameTest.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/SituationPrinter.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuPrinter.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Game.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/core/Game.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/core/Node.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/core/Modeller.java" />
-        <option value="$PROJECT_DIR$/src/com/nikolaev/Start.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/core/Game.java" />
         <option value="$PROJECT_DIR$/src/com/nikolaev/core/Finder.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java" />
+        <option value="$PROJECT_DIR$/src/com/nikolaev/Start.java" />
       </list>
     </option>
   </component>
@@ -210,7 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,7 +269,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,8 +349,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3955224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39978677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,7 +359,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.31960997" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.31960997" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,7 +386,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java</url>
-          <line>28</line>
+          <line>36</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -385,17 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1900">
           <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-          <folding>
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,63 +425,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Gamwe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/RenjuGameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2202#2203#0" expanded="true" />
-            <element signature="e#2231#2232#0" expanded="true" />
-            <element signature="e#2263#2264#0" expanded="true" />
-            <element signature="e#2292#2293#0" expanded="true" />
-            <element signature="e#2331#2332#0" expanded="true" />
-            <element signature="e#2367#2368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/RenjuSituation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Gamwe.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/SituationPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -487,73 +440,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/SituationPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="720">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/RenjuGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/model/RenjuSituation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Finder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="136" column="44" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuSituation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="220">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="193">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
             <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/core/Finder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/simplemodel/RenjuGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="340">
+          <caret line="129" column="35" selection-start-line="129" selection-start-column="35" selection-end-line="129" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nikolaev/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

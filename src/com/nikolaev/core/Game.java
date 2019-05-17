@@ -10,6 +10,12 @@ public interface Game {
 
   List<Node> generateAllSituation(Node node, int color);
 
+  Node generateSituationWithEvaluatingFunction(Node node, int color, boolean change);
+
+  Node generateSituationWithParticipalPath(Node node, int color);
+
+  Node generateSituationWithParticipalPathAndClipping(Node node, int color, int depth);
+
   int checkGoal(Situation situation);
 
 }
